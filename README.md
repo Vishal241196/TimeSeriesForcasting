@@ -25,13 +25,13 @@ You can install them using the following command:
 
 ## Results
 The script produces the following results:
-- Mean Squared Error: 0.01689874204369336     - R2 score: 0.41918182130707327
-- Mean Squared Error: 1.052695859362339e+19     - R2 score: -8.796070382076076e+20
-- Mean Squared Error: 0.009157127610516944     - R2 score: 0.48934048480704373
-- Mean Squared Error: 4.8646400286164386e+19     - R2 score: -3.1562575448262333e+21
-- Mean Squared Error: 0.007401469497247631     - R2 score: 0.5071133430049282
-- Mean Squared Error: 0.00722765431485135     - R2 score: 0.5853993985595023
-- Mean Squared Error: 0.010342423177400948     - R2 score: 0.35644495408004706
-- Mean Squared Error: 0.006864767351588903     - R2 score: 0.5615341422826196
-- Mean Squared Error: 0.006918973402801112     - R2 score: 0.5246228088121612
+- Mean Squared Error: 0.01689874204369336,        R2 score: 0.41918182130707327
+- Mean Squared Error: 1.052695859362339e+19,        R2 score: -8.796070382076076e+20
+- Mean Squared Error: 0.009157127610516944,        R2 score: 0.48934048480704373
+- Mean Squared Error: 4.8646400286164386e+19,        R2 score: -3.1562575448262333e+21
+- Mean Squared Error: 0.007401469497247631,        R2 score: 0.5071133430049282
+- Mean Squared Error: 0.00722765431485135,        R2 score: 0.5853993985595023
+- Mean Squared Error: 0.010342423177400948,        R2 score: 0.35644495408004706
+- Mean Squared Error: 0.006864767351588903,        R2 score: 0.5615341422826196
+- Mean Squared Error: 0.006918973402801112,        R2 score: 0.5246228088121612
 

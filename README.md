@@ -1,5 +1,5 @@
 # iQGateway - Machine Learning Task
-## Nested Time Series Cross Validation with Time Series Model
+## Nested CV: Time Series Cross Validation with Time Series Model
 ## Main Objectives are:
 1. Implement the nested time series cross validation strategy for grouped forecasting.
     a. User should provide the dataset, time column and the number of folds to generate

@@ -1,5 +1,17 @@
 # iQGateway - Machine Learning Task
 ## Nested Time Series Cross Validation with Time Series Model
+## Main Objectives are:
+1. Implement the nested time series cross validation strategy for grouped forecasting.
+    a. User should provide the dataset, time column and the number of folds to generate
+    b. For the given dataset, we will use "day" as a single time unit. This means you can split the data at day level
+
+2. Write you code in sci-kit learn format. Refer to the KFold CV for inspiration. The class should work on pandas dataframes and a datetime column name.
+
+3. Test your code with some samples.
+
+4. Build a time series model on the dataset above and evaluate it using your cross validation method. Submit the notebook illustrating the model development.
+
+5. Submit the code, test samples and any other recorded observations
 
 - This repository contains a Python script for implementing Nested Time Series Cross Validation and building a Time Series Model using scikit-learn. 
 - The script is designed to handle time series data and includes an example with synthetic data.
